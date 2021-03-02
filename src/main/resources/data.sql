@@ -1,0 +1,1 @@
+insert into students(fio,age) values ('Иванов ИИ',27);
